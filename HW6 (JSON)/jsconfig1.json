@@ -1,0 +1,29 @@
+[
+  {
+    "PublishingHouseId": 1,
+    "Title": "Textbook 1",
+    "PublishingHouse": {
+      "Id": 1,
+      "Name": "Name 1",
+      "Adress": "Adress 1"
+    }
+  },
+  {
+    "PublishingHouseId": 1,
+    "Title": "Textbook 2",
+    "PublishingHouse": {
+      "Id": 1,
+      "Name": "Name 1",
+      "Adress": "Adress 1"
+    }
+  },
+  {
+    "PublishingHouseId": 2,
+    "Title": "Textbook 2",
+    "PublishingHouse": {
+      "Id": 2,
+      "Name": "Name 2",
+      "Adress": "Adress 2"
+    }
+  }
+]
